@@ -1,6 +1,9 @@
 *.swp
 Gemfile.lock
 /tmp/
+/public/*
 /src/.bundle
 /src/data/
 /src/vendor/
+
+!/public/.gitkeep
