@@ -3,7 +3,8 @@ Gemfile.lock
 /tmp/
 /public/*
 /src/.bundle
-/src/data/
+/src/data/*
 /src/vendor/
 
 !/public/.gitkeep
+!/src/data/.gitkeep
